@@ -2,7 +2,7 @@
 
 Esse projeto é uma simples Single Page com intuito de ajustar posicionamentos de itens na tela, utilizando apenas html e css.
 
-<img src="./img/SinglePageReadme.png">
+<img width="470" heigth="300" src="img/SinglePageReadme.png"/>
 
 # INSTRUÇÕES PARA USO
 
