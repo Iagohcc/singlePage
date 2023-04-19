@@ -1,6 +1,6 @@
 # Single Page Doceria
 
-Esse projeto é uma simples Single Page com intuito de ajustar posicionamentos de itens na tela, utilizando apenas html e css.
+Esse projeto é uma simples Single Page com intuito de posicionar itens na tela, utilizando apenas html e css.
 
 ![SinglePageReadme](https://user-images.githubusercontent.com/46465161/232941761-4649ff29-d020-4f4a-81d7-482d1d5b51b0.PNG)
 
